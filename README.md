@@ -1,5 +1,5 @@
 
-🎬 Movie Recommendation System
+🎬MOVIE RECOMMENDATION SYSTEM
 
 A modern, interactive movie recommendation web app built with **Python** and **Streamlit**.  
 It recommends movies based on similarity and displays them in a stylish, Netflix-like interface.
@@ -31,6 +31,7 @@ git clone https://github.com/Shubhojeet-kumar/Movie-recommendation.git
 
 2. **Navigate into the folder:**
 
+cd movie-recommendation
 
 3. **Create a virtual environment (optional but recommended):**
 
